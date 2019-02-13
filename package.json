@@ -1,0 +1,30 @@
+{
+  "name": "@playframe/evolve",
+  "version": "1.0.0",
+  "description": "0.16 kB Deep calling assign",
+  "main": "index.js",
+  "scripts": {
+    "build": "coffee -c -b -p README.litcoffee > index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playframe/evolve.git"
+  },
+  "keywords": [
+    "fp",
+    "pf",
+    "playframe",
+    "evolve",
+    "deep",
+    "assign"
+  ],
+  "author": "Kiryl Yermakou <rma4ok@gmail.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/playframe/evolve/issues"
+  },
+  "homepage": "https://github.com/playframe/evolve#readme",
+  "devDependencies": {
+    "coffeescript": "^2.3.2"
+  }
+}
